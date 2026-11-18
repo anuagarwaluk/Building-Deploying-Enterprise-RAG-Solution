@@ -1,3 +1,4 @@
+
 # Building-Deploying-Enterprise-RAG-Solution
 Build and deploy a production-oriented Enterprise RAG system using FastAPI, LangGraph, AWS Bedrock, Pinecone, PostgreSQL, Glassflow Rius, and Amazon S3. Implement document ingestion, intelligent retrieval, persistent conversation memory, AI guardrails, Human-in-the-Loop (HITL) approvals, and observability.  Using Docker, Ci/CD, ECR, and EC2.
 
@@ -57,6 +58,8 @@ The project demonstrates how to connect document ingestion, grounded question an
 | CI/CD | GitHub Actions | Automated build, publish, and deployment |
 
 ## Architecture
+
+<img width="1536" height="1024" alt="Enterprise_RAG_Architecture_Infographic" src="https://github.com/user-attachments/assets/1f789bff-3e74-4bbb-bdc0-6f986ea054da" />
 
 ### Application architecture
 
